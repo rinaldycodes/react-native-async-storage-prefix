@@ -1,0 +1,24 @@
+{
+  "name": "react-native-async-storage-prefix",
+  "version": "1.0.0",
+  "description": "A package that simplifies AsyncStorage usage in React Native applications by allowing you to set a prefix for keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your_username/react-native-async-storage-prefix.git"
+  },
+  "keywords": [
+    "react-native",
+    "async-storage",
+    "react native async storage",
+    "prefix"
+  ],
+  "author": "rinaldycodes",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-async-storage-prefix": "^1.0.0"
+  }
+}
