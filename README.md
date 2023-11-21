@@ -12,5 +12,5 @@
 Install the package using npm:
 
 ```bash
-npm install react-native-async-storage-prefix
+npm i rn-async-storage-prefix
 ```
